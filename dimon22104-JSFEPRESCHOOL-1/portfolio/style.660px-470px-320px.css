@@ -1,0 +1,362 @@
+/* 660px */
+@media screen and (max-width: 660px) {
+    .block-Skills {
+        width: 100%;
+        height: 1350px;
+        margin-top: 100px;
+    }
+
+    .block-Portfolio {
+        width: 100%;
+        height: 250px;
+        margin-top: 50px;
+        margin-bottom: 60px;
+    }
+
+    .block-buttons {
+        display: flex;
+        flex-wrap: wrap;
+        margin-top: 20px;
+    }
+
+    .button-items__winter, .button-items__spring, .button-items__summer, .button-items__autumn {
+        margin: 10px 0px;
+    }
+
+    .block-Price {
+        width: 100%;
+        max-width: 660px;
+        margin: 80px auto;
+        height: 1770px;
+    }
+
+    .block-Price__block-left {
+        margin: 20px 0px;
+    }
+
+    .block-Price__block-center {
+        margin: 20px 0px;
+    }
+
+    .block-Price__block-right {
+        margin: 20px 0px;
+    }
+
+    .black-white-theme {
+        top: 10px;
+        left: 69%;
+        width: 50px;
+        height: 50px;
+    }
+
+    .clickIcon.active {
+        top: 10px;
+        left: 69%;
+        width: 50px;
+        height: 50px;
+        background-image: url("assets/svg/VectorDark.svg");
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+
+    .butten-language-ru {
+        padding: 0px 5px;
+        color: #BDAE82;
+        font-size: 1.7em;
+        font-weight: bolder;
+        opacity: 1;
+        position: absolute;
+        top: 2.3%;
+        left: 61%;
+    }
+
+    .butten-language-vs {
+        padding: 0px 5px;
+        color: white;
+        font-size: 1.7em;
+        font-weight: bolder;
+        opacity: 1;
+        position: absolute;
+        top: 2.7%;
+        left: 56%;
+    }
+
+    .butten-language-en {
+        padding: 0px 5px;
+        color: white;
+        font-size: 1.7em;
+        font-weight: bolder;
+        opacity: 1;
+        position: absolute;
+        top: 2.3%;
+        left: 46%;
+    }
+}
+
+@media screen and (max-width: 620px) {
+    nav {
+        width: 100%;
+        left: 0%;
+    }
+}
+
+
+
+/* 470px */
+@media screen and (max-width: 470px) {
+    html { 
+        font-size: 13px;
+    }
+
+    .block-Price__block-left {
+        width: 320px;
+        height: 505px;
+        margin-right: 0px;
+    }
+
+    .block-Price__block-center {
+        
+        width: 320px;
+        height: 505px;
+        margin: 0px;
+    }
+
+    .block-Price__block-right {
+        width: 320px;
+        height: 505px;
+        margin-left: 00px;
+    }
+
+    .block-Price {
+        width: 100%;
+        max-width: 768px;
+        margin: 80px auto;
+        height: 1680px;
+    }
+
+    .block-Portfolio {
+        width: 100%;
+        height: 400px;
+        margin-top: 50px;
+        margin-bottom: 60px;
+    }
+
+    .main-block__logo {
+        right: 50px;
+        width: 40px;
+        margin-left: 30px;
+        margin-top: 15px;
+        transition: 0.2s;
+    }
+
+    .butten-language-ru {
+        padding: 0px 5px;
+        color: #BDAE82;
+        font-size: 1.7em;
+        font-weight: bolder;
+        opacity: 1;
+        position: absolute;
+        top: 2.8%;
+        left: 56%;
+    }
+
+    .butten-language-vs {
+        padding: 0px 5px;
+        color: white;
+        font-size: 1.7em;
+        font-weight: bolder;
+        opacity: 1;
+        position: absolute;
+        top: 3.1%;
+        left: 50%;
+    }
+
+    .butten-language-en {
+        padding: 0px 5px;
+        color: white;
+        font-size: 1.7em;
+        font-weight: bolder;
+        opacity: 1;
+        position: absolute;
+        top: 2.8%;
+        left: 40%;
+    }
+
+    .block-title {
+        margin-left: 0px;
+        margin-top: 100px;
+        text-align: center;
+    }
+
+    .block-title__submit {
+        width: 220px;
+        height: 55px;
+        background-color: #BDAE82;
+        border: none;
+        font-size: 1.3em;
+        cursor: pointer;
+        transition: 0.2s;
+        margin-top: 100px;
+    }
+
+    .block-Contact-me_ipnut-style {
+        width: 350px;
+    }
+
+    .block-Contact-me_ipnut-style-message {
+        width: 350px;
+    }
+
+    
+
+    ul {
+        margin-top: 70px;
+        margin-left: 10px;
+    }
+}
+
+/* 320px */
+
+@media screen and (max-width: 390px) {
+    .block-Price__block-left {
+        width: 280px;
+        height: 505px;
+        margin-right: 0px;
+    }
+
+    .black-white-theme {
+        /* top: 10px; */
+        left: 65%;
+    }
+    .clickIcon.active {
+        left: 65%;
+    }
+
+    .block-Price__block-center {
+        width: 280px;
+        height: 505px;
+        margin: 0px;
+    }
+
+    .block-Price__block-right {
+        width: 280px;
+        height: 505px;
+        margin-left: 00px;
+    }
+
+    .block-Contact-me_ipnut-style {
+        width: 280px;
+    }
+
+    .block-Contact-me_ipnut-style-message {
+        width: 280px;
+    }
+
+    .butten-language-ru {
+        padding: 0px 5px;
+        color: #BDAE82;
+        font-size: 1.9em;
+        font-weight: bolder;
+        opacity: 1;
+        position: absolute;
+        top: 2%;
+        left: 51%;
+    }
+
+    .butten-language-vs {
+        padding: 0px 5px;
+        color: white;
+        font-size: 1.9em;
+        font-weight: bolder;
+        opacity: 1;
+        position: absolute;
+        top: 2.3%;
+        left: 43%;
+    }
+
+    .butten-language-en {
+        padding: 0px 5px;
+        color: white;
+        font-size: 1.9em;
+        font-weight: bolder;
+        opacity: 1;
+        position: absolute;
+        top: 2%;
+        left: 29%;
+    }
+
+    .cross-btn {
+        width: 20%;
+        left: 80%;
+    }
+
+    .block-Skills {
+        width: 100%;
+        height: 1300px;
+        max-width: 320px;
+        margin-top: 100px;
+        margin: 0 auto;
+        padding: 0px
+    }
+
+    .block-Skills__icons {
+        overflow: hidden;
+        width: 100%;
+    }
+
+    .block-Skills-position {
+        width: 100%;
+        height: 100px;
+        max-width: 320px;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .block-Skills__wrapper1, .block-Skills__wrapper2 ,.block-Skills__wrapper3 ,.block-Skills__wrapper4 {
+        margin-top: 75px;
+        max-width: 320px;
+    }
+
+    .block-Skills__line {
+        width: 30px;
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+
+    .block-Portfolio__line {
+        width: 50px;
+    }
+
+    .block-Video__line {
+        width: 50px;
+    }
+
+    .block-Price__line {
+        width: 50px;
+    }
+
+    .block-Skills__wrapper1 {
+        width: 200px;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .block-Skills__wrapper2 {
+        width: 200px;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .block-Skills__wrapper3 {
+        width: 200px;
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .block-Skills__wrapper4 {
+        width: 200px;
+        margin: 0px;
+        padding: 0px;
+    }
+
+}
